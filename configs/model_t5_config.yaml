@@ -1,0 +1,6 @@
+---
+learning_rate: 0.005
+epoch_num: 5
+try_one_batch: False
+pretrained_model_name: "google/t5-efficient-mini"
+path_to_log: "training_logs/t5_progress_logs"
