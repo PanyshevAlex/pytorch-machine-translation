@@ -1,6 +1,6 @@
 ---
-learning_rate: 0.005
-epoch_num: 5
-try_one_batch: False
-pretrained_model_name: "google/t5-efficient-mini"
-path_to_log: "training_logs/t5_progress_logs"
+embedding_size: 100
+hidden_size: 100
+epoch_num: 100
+lr: 0.0003
+maxlen: 15
